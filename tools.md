@@ -52,3 +52,7 @@
   * 在线工具
 * visualgo.net
   * 算法可视化
+* SwitchHosts
+  * HOSTS管理
+* Motrix
+  * 下载工具
